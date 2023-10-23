@@ -13,3 +13,5 @@ git commit
 This command is used to take a note of the staged changes in your assignment's history
 git remote 
 This command is used to make and delete connections to any repositories you have
+git push
+This command is used to upload the items on the local repository to a remote repository
