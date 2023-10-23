@@ -7,3 +7,5 @@ This command creates a . git subdirectory that goes in the directory you are wor
 
 git add
 This command adds changes to the working directory and also the staging area.
+git status
+This command shows the user the state of the working directory and the staging area at the current time used
