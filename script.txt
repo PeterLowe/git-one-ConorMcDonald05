@@ -15,3 +15,5 @@ git remote
 This command is used to make and delete connections to any repositories you have
 git push
 This command is used to upload the items on the local repository to a remote repository
+git branch
+This command is used to highlight the changes the user has made to their git assignment
