@@ -17,3 +17,5 @@ git push
 This command is used to upload the items on the local repository to a remote repository
 git branch
 This command is used to highlight the changes the user has made to their git assignment
+git clone
+This command is used to create an identical copy of an already existing repository and use it in a different location
