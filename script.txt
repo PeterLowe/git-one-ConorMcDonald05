@@ -1,10 +1,11 @@
 Git Assignment 
 By Conor McDonald
 
-Git rm
+git Init 
 
-Git rm to remove file(s) from the staging area
-Format git to rm filenames
-Can use wildcards and -r for recursive
-Use - - cached to remove from staging area
-Use -f to use on working directory
+This command creates a . git subdirectory that goes in the directory you are working on. 
+
+git add
+This command adds changes to the working directory and also the staging area.
+git status
+This command shows the user the state of the working directory and the staging area at the current time used
