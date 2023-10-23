@@ -21,3 +21,6 @@ git clone
 This command is used to create an identical copy of an already existing repository and use it in a different location
 git log 
 This command is used to help a user search through the history of their assignment and find any specific changes they are looking for
+git rm
+
+This command is used to remove files from the staging area, you can also format git to rm filenames
