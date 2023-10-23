@@ -19,3 +19,5 @@ git branch
 This command is used to highlight the changes the user has made to their git assignment
 git clone
 This command is used to create an identical copy of an already existing repository and use it in a different location
+git log 
+This command is used to help a user search through the history of their assignment and find any specific changes they are looking for
