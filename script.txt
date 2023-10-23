@@ -5,3 +5,5 @@ git Init
 
 This command creates a . git subdirectory that goes in the directory you are working on. 
 
+git add
+This command adds changes to the working directory and also the staging area.
