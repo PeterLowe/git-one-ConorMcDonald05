@@ -9,3 +9,5 @@ git add
 This command adds changes to the working directory and also the staging area.
 git status
 This command shows the user the state of the working directory and the staging area at the current time used
+git commit 
+This command is used to take a note of the staged changes in your assignment's history
